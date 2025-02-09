@@ -5,18 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd46aa1-3f38-48b1-9ce2-c29bf58bdb4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/controller/HubspotAssociationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/dao/HubspotAssociationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/dao/HubspotAssociationDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/model/Association.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/model/AssociationWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/model/InvalidAssociation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/service/HubspotAssociationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hubspot/practice/PracticeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hubspot/practice/HubspotApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hubspot/practice/PracticeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hubspot/practice/HubspotApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hubspot/practice/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2smAdyqaHhWuO3sP9S9zynqKoWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hubspot" />
   </component>
   <component name="RunManager">
     <configuration name="HubspotApplication" type="Application" factoryName="Application">
@@ -27,7 +54,15 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbd46aa1-3f38-48b1-9ce2-c29bf58bdb4c" name="Default Changelist" comment="" />
+      <created>1739050486061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739050486061</updated>
+    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -41,5 +76,21 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hubspot/practice/service/HubspotAssociationService.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hubspot/practice/service/HubspotAssociationService.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
